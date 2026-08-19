@@ -8,6 +8,7 @@ import './module-grid.css';
 import './validity.css';
 import './receiving.css';
 import './receiving-bridge.css';
+import './home-redesign.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
