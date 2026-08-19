@@ -1,0 +1,11 @@
+{
+  "name": "Coletor Operacional",
+  "short_name": "Coletor",
+  "description": "Coletor de dados operacional modular para varejo e logística.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "orientation": "portrait",
+  "icons": []
+}
