@@ -4,6 +4,7 @@ import App from './App';
 import './styles.css';
 import './audit.css';
 import './module-grid.css';
+import './validity.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
